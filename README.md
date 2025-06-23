@@ -28,4 +28,4 @@ Each rule includes:
 
 ### Manual
 1. Download the latest release `.zip` from [GitHub](https://github.com/KaramazovBrothers/moveToFolder).
-2. Extract the files (`main.js`, `manifest.json`, `styles.css`) to:
+2. Extract the files (`main.js`, `manifest.json`) to your Obsidian Vault folder
